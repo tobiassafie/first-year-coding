@@ -34,4 +34,6 @@ N.B. I made this during my Fall term to help familiarize myself with VPython.
 flappy_bird.ipynb
 
 ## Short Python Assignments
-I coded 
+I coded a handful of short assignments in my intro Python class at Drexel, and although not very impressive, I figured I'd showcase some of the key concepts we covered.
+
+
