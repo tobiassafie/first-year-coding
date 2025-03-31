@@ -24,10 +24,14 @@ three_body.ipynb
 ## Personal Projects
 
 ### Reverse Redlining in Philadelphia
+Data-driven visualization of modern redlining and housing inequity in Philadelphia. Uses demographic and historical housing data to explore patterns of systemic inequity.
+N.B. I built this program to build off the research paper I published to Drexel's student research anthology in my Fall term. Both as someone from North Philadelphia and as a general Philadelphia resident, I think it is paramount to address the current process of gentrification and discrimination in our home in order to build a more equitable, fairer, and kinder city.
+reverse_redlining.ipynb
 
-### Flappy Bird (for fun)
-To familiarize myself with VPython in the first quarter, I made a rough recreation of Flappy Bird.
-It features my own 3D models and incorporates realistic gravity (negligible drag and arbitrary impulse-based lift).
+### Flappy Bird
+A rough recreation of Flappy Bird. It features my own 3D models and incorporates realistic gravity (negligible drag and arbitrary impulse-based lift).
+N.B. I made this during my Fall term to help familiarize myself with VPython.
 flappy_bird.ipynb
 
 ## Short Python Assignments
+I coded 
