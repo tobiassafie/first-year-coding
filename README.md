@@ -38,7 +38,7 @@ I coded a handful of short assignments in my intro Python class at Drexel, and a
 
 ### Moon Landing Game
 A text-based physics game where players attempt to land safely on various planets with differing gravity values. The main challenge is managing velocity and fuel through user input in real-time. Designed to practice loops, conditionals, and user interaction while incorporating some applicaion of practical, basic, (very, very basic), physics concepts.
-- [lander_game.py](./python_assignments/lander_game)
+- [lander_game.py](./python_assignments/lander_game.py)
 
 ### Recipe Assistant
 A utility that reads .csv files containing nutritional information and recipes to generate per-serving nutrition labels. The assignment focused on working with dictionaries, file I/O, and handling incomplete data gracefully.
