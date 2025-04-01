@@ -37,7 +37,7 @@ N.B. I made this during my Fall term to help familiarize myself with VPython.
 I coded a handful of short assignments in my intro Python class at Drexel, and although not very impressive, I figured I'd showcase some of the basic key concepts we covered.
 
 ### Moon Landing Game
-A text-based physics game where players attempt to land safely on various planets with differing gravity values. The main challenge is managing velocity and fuel through user input in real-time. Designed to practice loops, conditionals, and user interaction while incorporating basic physics concepts.
+A text-based physics game where players attempt to land safely on various planets with differing gravity values. The main challenge is managing velocity and fuel through user input in real-time. Designed to practice loops, conditionals, and user interaction while incorporating some applicaion of practical, basic, (very, very basic), physics concepts.
 - [lander_game.py](./python_assignments/lander_game)
 
 ### Recipe Assistant
