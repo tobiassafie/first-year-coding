@@ -9,7 +9,7 @@ Since arriving at Drexel, I have been programming computational physics simulati
 ### Displacement & Reverse Redlining in Philadelphia *(in progress)*
 Data-driven interactive visualization of displacement, gentrification, and housing equity—- modern redlining --in Philadelphia. Uses demographic and historical housing data to explore patterns of systemic inequity. Inspired by the Mapping Inequality project.
 N.B. I built this program to build off the research paper I submitted to Drexel's student research anthology in my Fall term. Both as someone from North Philadelphia and as a human, I think it is our responsibility to address the current process of gentrification and displacement in our home.
-reverse_redlining.ipynb
+- reverse_redlining.ipynb
 
 
 ## Physics Simulations
