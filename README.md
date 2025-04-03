@@ -39,15 +39,15 @@ A text-based physics game where players attempt to land safely on various planet
 A utility that reads .csv files containing nutritional information and recipes to generate per-serving nutrition labels. The assignment focused on working with dictionaries, file I/O, and handling incomplete data gracefully.
 - [recipe_assistant.py](./python_assignments/recipe_assistant.py)
 
-## Personal Projects
+### The Game of War
+A simple program that employs recursion to simulate the card game of War. The primary guideline of the assignment was to use recursion instead of game loops.
+- [war.py](./python_assignments/war.py)
+
+- ## Personal Projects
 As of right now, I am taking Computational Physics I and completing two to three more computational physics simulations every week in my core Physics course. I don't have any big plans for personal projects for the Spring term besides the displacement map, but we'll see what happens.
 
 ### Flappy Bird
 A rough recreation of Flappy Bird. It features my own 3D models and incorporates realistic gravity (negligible drag and arbitrary impulse-based lift).
 N.B. I made this during my Fall term to help familiarize myself with VPython.
 - [flappy_bird.ipynb](./[personal_projects/flappy_bird.ipynb)
-
-### The Game of War
-A simple program that employs recursion to simulate the card game of War. The primary guideline of the assignment was to use recursion instead of game loops.
-- [war.py](./python_assignments/war.py)
 
