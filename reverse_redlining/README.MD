@@ -2,7 +2,7 @@
 
 A visual analysis of displacement patterns in modern-day Philadelphia, exploring the long-term impacts of redlining through rent inflation, household income changes, and demographic shifts across census tracts.
 
-## 📌 Overview
+## Overview
 
 This tool visualizes:
 - 1930s HOLC redlining zones
@@ -31,7 +31,7 @@ The goal is to understand how historical housing discrimination still correlates
 - Folium / Mapbox for mapping
 - Conda environment for reproducibility
 
-## 🚀 Running the Tool
+## Running the Tool
 
 1. Clone this repository
 2. Navigate to the `displacement_tool` folder
@@ -59,6 +59,6 @@ This tool began as a way to explore how historical redlining relates to modern d
 - Prioritized interactive storytelling over pure data dumping — map layers guide users through a narrative
 - Focused on rent, income, and racial demographic as key metrics for displacement, due to their immediacy and emotional relevance
 
-## ✍️ Author & Purpose
+## Author & Purpose
 
 Created by Tobias Safie as part of a broader effort to analyze gentrification and housing inequality in Philadelphia. This project serves as both a data science exercise, an extension to a prior research project, and, most importantly, a contribution to ongoing urban justice conversations. Specifically for me, I want to bridge the gap between data science and social justice to actually help people.
