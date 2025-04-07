@@ -59,6 +59,9 @@ This tool began as a way to explore how historical redlining relates to modern d
 - Prioritized interactive storytelling over pure data dumping — map layers guide users through a narrative
 - Focused on rent, income, and racial demographic as key metrics for displacement, due to their immediacy and relevance
 
+## The Paper
+This whole project was inspired by a research paper I wrote for my Fall term English course. We were instructed to write a research paper on any topic of our choice and that it must have a soft 1000 word cutoff so, if selected, could be published in the student research anthology. I of course wrote about displacement in Philadelphia and how historic redlining still affects people to this day. I also didn't meet the word cutoff: I was at about 1300 words after an hour and a half of cutting, because this is a vast topic that can be extensively explored. This is why I wanted to create this as a visualization aid and to help spark this conversation in general, but, most importantly, amongst Philadelphia residents.
+
 ## Author & Purpose
 
 Created by Tobias Safie as part of a broader effort to analyze gentrification and housing inequality in Philadelphia. This project serves as both a data science exercise, an extension to a prior research project, and, most importantly, a contribution to ongoing urban justice conversations. Specifically for me, I want to bridge the gap between data science and social justice to actually help people.
