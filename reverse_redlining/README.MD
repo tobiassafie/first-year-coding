@@ -34,7 +34,7 @@ The goal is to understand how historical housing discrimination still correlates
 ## Running the Tool
 
 1. Clone this repository
-2. Navigate to the `displacement_tool` folder
+2. Navigate to the `reverse_redlining` folder
 3. Launch the Jupyter Notebook
 4. Run all cells to load data and generate the map
 
