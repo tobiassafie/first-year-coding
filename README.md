@@ -11,7 +11,7 @@ A data-driven, interactive map visualizing how historical redlining and modern g
 
 N.B. I built this program to build off the research paper I submitted to Drexel's student research anthology in my Fall term. Both as someone from North Philadelphia and as a human, I think it is our responsibility to address the current process of gentrification and displacement in our home. **The first step is simply seeing it.**
 - [View the notebook](./reverse_redlining/reverse_redlining.ipynb)
-- [Read the essay](./reverse_redlining/reverse_redlining.ipynb)
+- [Read the essay](./reverse_redlining/Redlining_Essay_and_Displacement_Context_TobiasSafie.pdf)
 
 
 ## Physics Simulations
