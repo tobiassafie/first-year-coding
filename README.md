@@ -2,14 +2,15 @@
 Simulations, models, and visualizations from a first-year Physics, Economics & Mathematics student
 
 Despite receiving a D+ in my introduction Python class at Drexel, I have been coding in Python, Java, and Go for years, even receiving a 5 on the AP CS A exam.
-Since arriving at Drexel, I have been programming computational physics simulations, small Python assignments, and personal projects that can be employed in social equity research.
+Since arriving at Drexel, I have been programming computational physics simulations, small Python assignments, and personal projects that reflect both my academic and personal interests.
 
 ## Featured Project
 
-### Displacement & Reverse Redlining in Philadelphia *(in progress)*
-Data-driven interactive visualization of displacement, gentrification, and housing equity—- modern redlining --in Philadelphia. Uses demographic and historical housing data to explore patterns of systemic inequity. Inspired by the Mapping Inequality project.
+### Displacement & Reverse Redlining in Philadelphia
+**A data-driven, interactive map** visualizing how historical redlining and modern gentrification overlap in Philadelphia. Built using U.S. Census, HOLC, and Eviction Lab data, the tool explores systemic housing inequality — especially in neighborhoods like my own in North Philadelphia.
+
 N.B. I built this program to build off the research paper I submitted to Drexel's student research anthology in my Fall term. Both as someone from North Philadelphia and as a human, I think it is our responsibility to address the current process of gentrification and displacement in our home.
-- reverse_redlining.ipynb
+- **[View the Notebook →](./reverse_redlining.ipynb)**
 
 
 ## Physics Simulations
