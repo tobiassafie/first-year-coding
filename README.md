@@ -42,7 +42,7 @@ D-graded areas— once starved of investment —now have the largest rent increa
 #### Choropleth: Rent Change by Census Tract
 <img src="./assets/rent_change_choropleth.png" alt="Choropleth of rent change" width="650"/>
 This choropleth gives a citywide view of how deeply rent increases have affected Philadelphia. The darkest reds mark neighborhoods under the highest displacement pressure. 
-  N.B. The darkest red spot is around 38th & Market, which is predominantly inhabited by Drexel and UPenn students.
+  N.B. The darkest red spot is around 38th & Walnut, which is predominantly inhabited by UPenn and Drexel students.
 
 ---
 
