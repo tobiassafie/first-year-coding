@@ -1,4 +1,4 @@
-# Philadelphia Displacement Tool
+# Reverse Redlining - Philadelphia Displacement Mapping Tool
 
 A visual analysis of displacement patterns in modern-day Philadelphia, exploring the long-term impacts of redlining through rent inflation, household income changes, and demographic shifts across census tracts.
 
@@ -57,7 +57,7 @@ This tool began as a way to explore how historical redlining relates to modern d
 ### Design choices:
 - Built around census tracts for precision and consistency with demographic/economic data
 - Prioritized interactive storytelling over pure data dumping — map layers guide users through a narrative
-- Focused on rent, income, and racial demographic as key metrics for displacement, due to their immediacy and emotional relevance
+- Focused on rent, income, and racial demographic as key metrics for displacement, due to their immediacy and relevance
 
 ## Author & Purpose
 
