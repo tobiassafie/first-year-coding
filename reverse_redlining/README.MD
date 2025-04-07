@@ -38,10 +38,10 @@ The goal is to understand how historical housing discrimination still correlates
 3. Launch the Jupyter Notebook
 4. Run all cells to load data and generate the map
 
-## 📎 Related Files
+## Related Files
 
 - `reverse_redlining.ipynb`: Main notebook with full analysis and visualizations
-- `data`: Data folder containing relevant files needed for map projections
+- `\data`: Data folder containing relevant files needed for map projections
 - `Redlining_Essay_and_Displacement_Context_TobiasSafie.pdf`: Research paper I wrote on this very topic; inspired this project
 - `README_displacement.md`: This file — specific to the Displacement Tool
 
