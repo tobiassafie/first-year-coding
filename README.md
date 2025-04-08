@@ -90,6 +90,6 @@ As of right now, I am taking Computational Physics I and completing two to three
 A rough recreation of Flappy Bird. It features my own 3D models and incorporates realistic gravity (negligible drag and arbitrary impulse-based lift).
 N.B. I made this during my Fall term to help familiarize myself with VPython.
 - [flappy_bird.ipynb](./[personal_projects/flappy_bird.ipynb)\
-\
+- 
 <img src="./assets/flappy_bird.gif" alt="Flappy Bird" width="650"/>
 
