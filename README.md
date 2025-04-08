@@ -16,7 +16,7 @@ N.B. I built this program to build off the research paper I submitted to Drexel'
 
 ---
 
-### Interactive Map Snapshots
+### Displacement Map Snapshots
 
 #### HOLC Redlining Map of Philadelphia (1930s)
 <img src="./assets/Screenshot_whole_map.png" alt="HOLC Redlining Map" width="700"/>
