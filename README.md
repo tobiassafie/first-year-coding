@@ -2,7 +2,7 @@
 Simulations, models, and visualizations from a first-year Physics, Economics & Mathematics student
 
 Despite receiving a D+ in my introduction Python class at Drexel, I have been coding in Python, Java, and Go for years, even receiving a 5 on the AP CS A exam.
-Since arriving at Drexel, I have been programming computational physics simulations, small Python assignments, and personal projects that reflect both my academic and personal interests.
+Since arriving at Drexel, I have been programming computational physics simulations, short Python programs, and personal projects that reflect both my academic and personal interests.
 
 ## Featured Project
 
