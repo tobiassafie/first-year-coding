@@ -29,7 +29,7 @@ N.B. I built this program to build off the research paper I submitted to Drexel'
 
 ---
 
-### Data Visualizations from the Map
+### Data Visualizations from the Displacement Tool
 
 #### Rent Change vs Black Population Change in D-Graded (Redlined) Tracts
 <img src="./assets/Screenshot_rent_scatterplot.png" alt="Scatterplot rent vs Black pop in D tracts" width="650"/>
