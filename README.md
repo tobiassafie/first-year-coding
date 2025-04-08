@@ -52,7 +52,7 @@ I made these in the following core Physics courses at Drexel: Contemporary Physi
 
 ### Einstein Solid Model
 Simlates energy distribution in a two-particle Einstein solid using discrete energy quanta, Includes entropy calculations, multiplicity tracking, and optional plots to visualize system behavior over time.
-- [einstein_solid.ipynb](./physics_simulations/einstein_solid.ipynb)\
+- [einstein_solid.ipynb](./physics_simulations/einstein_solid.ipynb)\ \
   <img src="./assets/einstein_solid.gif" alt="Einstein Solid" width="650"/>
 
 ### E-Field Simulator
