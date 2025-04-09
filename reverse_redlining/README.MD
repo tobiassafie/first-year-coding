@@ -59,7 +59,7 @@ This tool began as a way to explore how historical redlining relates to modern d
 - Prioritized interactive storytelling over pure data dumping — map layers guide users through a narrative
 - Focused on rent, income, and racial demographic as key metrics for displacement, due to their immediacy and relevance
 
-## [The Paper](./reverse_redlining/Redlining_Essay_and_Displacement_Context_TobiasSafie.pdf)
+## [The Paper](Redlining_Essay_and_Displacement_Context_TobiasSafie.pdf)
 This whole project was inspired by a research paper I wrote for my Fall term English course. We were instructed to write a research paper on any topic of our choice and that it must have a soft 1000 word cutoff so, if selected, could be published in the student research anthology. I of course wrote about displacement in Philadelphia and how historic redlining still affects people to this day. I also didn't meet the word cutoff: I was at about 1300 words after an hour and a half of cutting. This is a vast topic that can be extensively explored; cutting would be a sin. This is why I wanted to create the displacement tool. I wanted to explore this topic of redlining, reverse redlining, gentrification, and displacement further. I want to help spark this conversation in general, but, most importantly, amongst Philadelphia residents to see what we can do to create a more equitable city.
 
 ## Author & Purpose
