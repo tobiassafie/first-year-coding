@@ -48,28 +48,28 @@ The goal is to understand how historical housing discrimination still correlates
 ## Displacement Map Snapshots
 
 ### HOLC Redlining Map of Philadelphia (1930s)
-<img src="./assets/Screenshot_whole_map.png" alt="HOLC Redlining Map" width="700"/>
+<img src="../assets/Screenshot_whole_map.png" alt="HOLC Redlining Map" width="700"/>
 
 ### Tract-level data popup (Northern Liberties)
-<img src="./assets/Screenshot_Nolibs.png" alt="Tract popup - Nolibs" width="700"/>
+<img src="../assets/Screenshot_Nolibs.png" alt="Tract popup - Nolibs" width="700"/>
 
 ### Tract-level data popup (West Philly)
-<img src="./assets/Screenshot_west.png" alt="Tract popup - West Philly" width="700"/>
+<img src="../assets/Screenshot_west.png" alt="Tract popup - West Philly" width="700"/>
 
 ---
 
 ## Data Visualizations from the Displacement Tool
 
 ### Rent Change vs Black Population Change in D-Graded (Redlined) Tracts
-<img src="./assets/Screenshot_rent_scatterplot.png" alt="Scatterplot rent vs Black pop in D tracts" width="650"/>
+<img src="../assets/Screenshot_rent_scatterplot.png" alt="Scatterplot rent vs Black pop in D tracts" width="650"/>
 In formerly redlined (D-graded) areas, rent rises often coincide with significant drops in Black population, suggesting direct displacement.
 
 ### Average Rent Change by HOLC Grade (2010–2020)
-<img src="./assets/Screenshot_rent_redlining.png" alt="Bar chart - rent by HOLC grade" width="650"/>
+<img src="../assets/Screenshot_rent_redlining.png" alt="Bar chart - rent by HOLC grade" width="650"/>
 D-graded areas— once starved of investment —now have the largest rent increases, underscoring the direct outcomes of reverse redlining.
 
 ### Choropleth: Rent Change by Census Tract
-<img src="./assets/rent_change_choropleth.png" alt="Choropleth of rent change" width="650"/>
+<img src="../assets/rent_change_choropleth.png" alt="Choropleth of rent change" width="650"/>
 This choropleth gives a citywide view of how deeply rent increases have affected Philadelphia. The darkest reds mark neighborhoods under the highest displacement pressure. 
   N.B. The darkest red spot is around 38th & Walnut, which is predominantly inhabited by UPenn and Drexel students.
 
