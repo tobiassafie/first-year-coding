@@ -10,7 +10,7 @@ Since arriving at Drexel, I have been programming computational physics simulati
 A data-driven, interactive map visualizing how historical redlining and modern gentrification overlap in Philadelphia. Built using U.S. Census, HOLC, and Eviction Lab data, the tool explores systemic housing inequality— especially in neighborhoods like in North, South, and West Philadelphia.
 
 N.B. I built this program to build off the research paper I submitted to Drexel's student research anthology in my Fall term. Both as someone from North Philadelphia and as a human, I think it is our responsibility to address the current process of gentrification and displacement in our home. **The first step is simply seeing it.**
-- [View the map](./reverse_redlining/reverse_redlining.ipynb)
+- [View the code](./reverse_redlining/reverse_redlining.ipynb)
 - [Read the essay](./reverse_redlining/Redlining_Essay_and_Displacement_Context_TobiasSafie.pdf)
 - [About the Displacement Tool](./reverse_redlining/README.MD)
 
