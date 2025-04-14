@@ -85,7 +85,7 @@ A simple program that employs recursion to simulate the card game of War. The pr
 - [war.py](./python_assignments/war.py)
 
 - ## Personal Projects
-As of right now, I am taking Computational Physics I and completing two to three more computational physics simulations every week in my core Physics course. I don't have any big plans for personal projects for the Spring term besides continuing the displacement map, but, to be honest, I'm waiting for my next idea (looks like it will be some sort of market simulation).
+As of right now, I am taking Computational Physics I and completing two to three more computational physics simulations every week in my core Physics course. I don't have any big plans for personal projects for the Spring term besides continuing the displacement map, but, to be honest, I'm waiting for my next idea (UPDATE: it looks like it will be some sort of market simulation series).
 
 ### Flappy Bird
 A rough recreation of Flappy Bird. It features my own 3D models and incorporates realistic gravity (negligible drag and arbitrary impulse-based lift).
