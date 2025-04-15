@@ -72,7 +72,7 @@ This choropleth gives a citywide view of how deeply rent increases have affected
 - `reverse_redlining.ipynb`: Main notebook with full analysis and visualizations
 - `\data`: Data folder containing relevant files needed for map projections
 - `Redlining_Essay_and_Displacement_Context_TobiasSafie.pdf`: Research paper I wrote on this very topic; inspired this project
-- `README_displacement.md`: This file — specific to the Displacement Tool
+- `README_displacement.md`: This file— specific to the Displacement Tool
 
 ## Design Process & Challenges
 
