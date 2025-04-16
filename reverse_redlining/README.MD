@@ -85,7 +85,7 @@ This tool began as a way to explore how historical redlining relates to modern d
 
 ### Design choices:
 - Built around census tracts for precision and consistency with demographic/economic data
-- Prioritized interactive storytelling over pure data dumping — map layers guide users through a narrative
+- Prioritized interactive storytelling over pure data dumping; map layers guide users through a narrative
 - Focused on rent, income, and racial demographic as key metrics for displacement, due to their immediacy and relevance
 
 ## [The Paper](Redlining_Essay_and_Displacement_Context_TobiasSafie.pdf)
