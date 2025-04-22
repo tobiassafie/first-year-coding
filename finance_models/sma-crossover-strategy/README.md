@@ -20,5 +20,11 @@ The model simulates trading using two moving averages:
 
 ### Screenshots from the Model
 <img src="../../assets/JPM_SMA_buysell.png" alt="JPM 1" width="650">
-caption/
+
 <img src="../../assets/JPM_SMA_Strat.png" alt="JPM 1" width="650">
+
+---
+
+<img src="../../assets/TSLA_SMA_buysell.png" alt="TSLA 1" width="650">
+
+<img src="../../assets/TSLA_SMA_Strat.png" alt="TSLA 2" width="650">
