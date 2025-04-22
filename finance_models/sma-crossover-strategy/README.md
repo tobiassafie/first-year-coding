@@ -16,8 +16,9 @@ The model simulates trading using two moving averages:
 - The strategy performs well on steady-trending assets, both bearish and bullish.
 - It underperforms during rapid price increases (e.g. $TSLA in 2020–21), highlighting the lagging nature of SMAs.
 - Real-world use requires parameter tuning, validation, and risk management.
+- Yfinance, stock modeling, and Pandas as a whole.
 
 ### Screenshots from the Model
 <img src="../../assets/JPM_SMA_buysell.png" alt="JPM 1" width="650">
-caption\
+caption/
 <img src="../../assets/JPM_SMA_Strat.png" alt="JPM 1" width="650">
