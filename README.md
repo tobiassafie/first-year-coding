@@ -87,6 +87,10 @@ A simple program that employs recursion to simulate the card game of War. The pr
 - ## Personal Projects
 As of right now, I am taking Computational Physics I and completing two to three more computational physics simulations every week in my core Physics course. I don't have any big plans for personal projects for the Spring term besides continuing the displacement map, but, to be honest, I'm waiting for my next idea (UPDATE: it looks like it will be some sort of market simulation series).
 
+### Simple Moving Average (SMA) Trading Model
+A simple trading model that, in essence, takes historical movement of the market and tracks the momentum of it, thus providing buying and selling signals. Works well under steady market conditions but falls short under real volatility such as the 2020 TSLA run or the GME short squeeze. This is the first algorithmic trading model I made.
+- [SMA_Crossover.ipynb](./finance-models/sma-crossover-strategy/SMA_Crossover.ipynb)
+
 ### Flappy Bird
 A rough recreation of Flappy Bird. It features my own 3D models and incorporates realistic gravity (albeit negligible drag and arbitrary impulse-based lift).
 N.B. I made this during my Fall term to help familiarize myself with VPython.
