@@ -91,7 +91,7 @@ As of right now, I am taking Computational Physics I and completing two to three
 A simple trading model that, in essence, takes historical movement of the market and tracks the momentum of it, thus providing buying and selling signals. Works well under steady market conditions but falls short under real volatility such as the 2020 TSLA run or the GME short squeeze. This is the first algorithmic trading model I made.
 - [SMA Crossover](./finance_models/sma-crossover-strategy)
 
-<img src="./assets/JPM_SMA_Strat.png" alt="JPM 1" width="650
+<img src="./assets/JPM_SMA_Strat.png" alt="JPM 1" width="650">
 <img src="./assets/JPM_SMA_buysell.png" alt="JPM 2" width="650">
 
 
