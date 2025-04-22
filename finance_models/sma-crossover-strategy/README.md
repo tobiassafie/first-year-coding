@@ -13,7 +13,7 @@ The model simulates trading using two moving averages:
 - The simulation tracks portfolio value over time versus a simple buy-and-hold strategy.
 
 ### Key Learnings
-- The strategy performs well on steady-trending assets like $JPM.
+- The strategy performs well on steady-trending assets, both bearish and bullish.
 - It underperforms during rapid price increases (e.g. $TSLA in 2020–21), highlighting the lagging nature of SMAs.
 - Real-world use requires parameter tuning, validation, and risk management.
 
