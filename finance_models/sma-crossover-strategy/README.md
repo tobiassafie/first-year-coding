@@ -7,6 +7,8 @@ The model simulates trading using two moving averages:
 - **Short SMA** (e.g. 20-day)
 - **Long SMA** (e.g. 50-day)
 
+### View the Model
+
 ### How It Works
 - A **buy** signal is generated when the short SMA crosses **above** the long SMA (golden cross).
 - A **sell** signal is generated when the short SMA crosses **below** the long SMA (death cross).
