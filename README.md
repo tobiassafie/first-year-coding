@@ -92,7 +92,6 @@ A simple trading model that, in essence, takes historical movement of the market
 - [SMA Crossover](./finance_models/sma-crossover-strategy)
 
 <img src="./assets/JPM_SMA_strategy.png" alt="JPM 1" width="650">
-<img src="./assets/JPM_SMA_buysell.png" alt="JPM 2"/>
 
 ### Flappy Bird
 A rough recreation of Flappy Bird. It features my own 3D models and incorporates realistic gravity (albeit negligible drag and arbitrary impulse-based lift).
