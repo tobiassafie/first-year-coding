@@ -5,7 +5,7 @@ It can be utilized to analyze an SMA of any window size on any stock + timeframe
 
 The model simulates trading using two moving averages:
 - **Short SMA** (e.g. 20-day)
-- **Long SMA** (e.g. 50-day or 200-day)
+- **Long SMA** (e.g. 50-day)
 
 ### How It Works
 - A **buy** signal is generated when the short SMA crosses **above** the long SMA (golden cross).
