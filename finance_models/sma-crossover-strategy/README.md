@@ -18,4 +18,4 @@ The model simulates trading using two moving averages:
 - Real-world use requires parameter tuning, validation, and risk management.
 
 ### Screenshots from the Model
-<img src="../assets/JPM_SMA_buysell.png" alt="JPM 1" width="650">
+<img src="..../assets/JPM_SMA_buysell.png" alt="JPM 1" width="650">
