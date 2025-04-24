@@ -91,9 +91,9 @@ As of right now, I am taking Computational Physics I and completing two to three
 A simple trading model that, in essence, takes historical movement of the market and tracks the momentum of it, thus providing buying and selling signals. Works well under steady market conditions but falls short under real volatility such as the 2020 TSLA run or the GME short squeeze. This is the first algorithmic trading model I made.
 - [SMA Crossover](./finance_models/sma-crossover-strategy)
 <img src="./assets/JPM_SMA_buysell.png" alt="JPM 1" width="650">
-Simple execuition of the algorithm on JP Morgan./
+Simple execuition of the algorithm on JP Morgan.
 <img src="./assets/JPM_SMA_Strat.png" alt="JPM 2" width="650">
-Overview of the actual buy/sell signals overlayed on the trendline./
+Overview of the actual buy/sell signals overlayed on the trendline.
 
 ### Flappy Bird
 A rough recreation of Flappy Bird. It features my own 3D models and incorporates realistic gravity (albeit negligible drag and arbitrary impulse-based lift).
