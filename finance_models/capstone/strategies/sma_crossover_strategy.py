@@ -34,4 +34,7 @@ def generate_signals(df, short_window=20, long_window=50):
     # Build Position column by forward-filling signals
     df['Position'] = df['Signal'].replace(to_replace=0, method='ffill')
 
-    return df
+    # Define warm-up window for plotting purposes
+    warmup_window = max(short_window, long_window)
+
+    return df, warmup_window

@@ -43,8 +43,8 @@ def generate_signals(df, rsi_window=14, bollinger_window=20, num_std_dev=2):
     df['Signal'] = 0
 
     # Buy when Buy Condition becomes newly true
-    buy_signal = (df['RSI'] < 30) & (df['Close'][ticker] <= df['Lower_Band'])
-    sell_signal = (df['RSI'] > 70) & (df['Close'][ticker] >= df['Upper_Band'])
+    buy_signal = (df['RSI'] < 30) & (df['Close'] <= df['Lower_Band'])
+    sell_signal = (df['RSI'] > 70) & (df['Close'] >= df['Upper_Band'])
 
     # Entry only on transition
     df.loc[(buy_signal) & (~(buy_signal.shift(1).fillna(False))), 'Signal'] = 1
@@ -57,4 +57,7 @@ def generate_signals(df, rsi_window=14, bollinger_window=20, num_std_dev=2):
     # Build Position column by forward-filling signals
     df['Position'] = df['Signal'].replace(to_replace=0, method='ffill')
 
-    return df
+    # Define warm-up window for plotting purposes
+    warmup_window = max(rsi_window, bollinger_window)
+
+    return df, warmup_window
