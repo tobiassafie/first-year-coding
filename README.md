@@ -24,16 +24,8 @@ N.B. I built this program to build off the research paper I submitted to Drexel'
 ---
 
 ### Data Visualizations from the Displacement Tool
-
-#### Average Rent Change by HOLC Grade (2010–2020)
-<img src="./assets/Screenshot_rent_redlining.png" alt="Bar chart - rent by HOLC grade" width="400"/>
-D-graded areas— once starved of investment —now have the largest rent increases, underscoring the direct outcomes of reverse redlining.
-
-#### Choropleth: Rent Change by Census Tract
+<img src="./assets/Screenshot_rent_redlining.png" alt="Bar chart - rent by HOLC grade" width="400">
 <img src="./assets/rent_change_choropleth.png" alt="Choropleth of rent change" width="400"/>
-This choropleth gives a citywide view of how deeply rent increases have affected Philadelphia. The darkest reds mark neighborhoods under the highest displacement pressure. 
-  N.B. The darkest red spot is around 38th & Walnut, which is predominantly inhabited by UPenn and Drexel students.
-
 ---
 
 
