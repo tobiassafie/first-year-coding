@@ -26,11 +26,11 @@ N.B. I built this program to build off the research paper I submitted to Drexel'
 ### Data Visualizations from the Displacement Tool
 
 #### Average Rent Change by HOLC Grade (2010–2020)
-<img src="./assets/Screenshot_rent_redlining.png" alt="Bar chart - rent by HOLC grade" width="650"/>
+<img src="./assets/Screenshot_rent_redlining.png" alt="Bar chart - rent by HOLC grade" width="400"/>
 D-graded areas— once starved of investment —now have the largest rent increases, underscoring the direct outcomes of reverse redlining.
 
 #### Choropleth: Rent Change by Census Tract
-<img src="./assets/rent_change_choropleth.png" alt="Choropleth of rent change" width="650"/>
+<img src="./assets/rent_change_choropleth.png" alt="Choropleth of rent change" width="400"/>
 This choropleth gives a citywide view of how deeply rent increases have affected Philadelphia. The darkest reds mark neighborhoods under the highest displacement pressure. 
   N.B. The darkest red spot is around 38th & Walnut, which is predominantly inhabited by UPenn and Drexel students.
 
@@ -60,15 +60,7 @@ Numerically simulates the gravitational interaction between three celestial bodi
 <img src="./assets/three_body.gif" alt="Three Body Simulation" width="650"/>
 
 - ## Personal Projects
-As of right now, I am taking Computational Physics I and completing two to three more computational physics simulations every week in my core Physics course. I don't have any big plans for personal projects for the Spring term besides continuing the displacement map, but, to be honest, I'm waiting for my next idea (UPDATE: it looks like it will be some sort of market simulation series).
-
-### Simple Moving Average (SMA) Trading Model
-A simple trading model that, in essence, takes historical movement of the market and tracks the momentum of it, thus providing buying and selling signals. Works well under steady market conditions but falls short under real volatility such as the 2020 TSLA run or the GME short squeeze. This is the first algorithmic trading model I made.
-- [SMA Crossover](./finance_models/sma-crossover-strategy)
-<img src="./assets/JPM_SMA_buysell.png" alt="JPM 1" width="650">
-Simple execuition of the algorithm on JP Morgan.
-<img src="./assets/JPM_SMA_Strat.png" alt="JPM 2" width="650">
-Overview of the actual buy/sell signals overlayed on the trendline.
+As of right now, I am taking Computational Physics I and completing two to three more computational physics simulations every week in my core Physics course. For the rest of the school year I will be making a few models and immersing myself in machine learning.
 
 ### Flappy Bird
 A rough recreation of Flappy Bird. It features my own 3D models and incorporates realistic gravity (albeit negligible drag and arbitrary impulse-based lift).
