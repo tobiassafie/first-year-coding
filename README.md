@@ -17,8 +17,6 @@ N.B. I built this program to build off the research paper I submitted to Drexel'
 ---
 
 ### Displacement Map Snapshot
-
-#### Tract-level data popup (West Philly)
 <p align="center">
 <img src="./assets/Screenshot_west.png" alt="Tract popup - West Philly" width="700"/>
 </p>
