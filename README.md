@@ -24,8 +24,11 @@ N.B. I built this program to build off the research paper I submitted to Drexel'
 ---
 
 ### Data Visualizations from the Displacement Tool
-<img src="./assets/Screenshot_rent_redlining.png" alt="Bar chart - rent by HOLC grade" width="400">
-<img src="./assets/rent_change_choropleth.png" alt="Choropleth of rent change" width="400"/>
+<p align="center">
+  <img src="./assets/Screenshot_rent_redlining.png" alt="Bar chart - rent by HOLC grade" width="400">
+  <img src="./assets/rent_change_choropleth.png" alt="Choropleth of rent change" width="400"/>
+</p>
+
 ---
 
 
