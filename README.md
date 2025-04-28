@@ -62,18 +62,6 @@ Numerically simulates the gravitational interaction between three celestial bodi
 ## Short Python Assignments
 I coded a handful of short assignments in my intro Python class at Drexel, and, although not very impressive, I figured I'd showcase some of the basic key concepts we covered.
 
-### Moon Landing Game
-A text-based physics game where players attempt to land safely on various planets with differing gravity values. The main challenge is managing velocity and fuel through user input in real-time. Designed to practice loops, conditionals, and user interaction while incorporating some application of practical and very, very basic physics concepts.
-- [lander_game.py](./python_assignments/lander_game.py)
-
-### Recipe Assistant
-A utility that reads .csv files containing nutritional information and recipes to generate per-serving nutrition labels. The assignment focused on working with dictionaries, file I/O, and handling incomplete data gracefully.
-- [recipe_assistant.py](./python_assignments/recipe_assistant.py)
-
-### The Game of War
-A simple program that employs recursion to simulate the card game of War. The primary guideline of the assignment was to use recursion instead of game loops.
-- [war.py](./python_assignments/war.py)
-
 - ## Personal Projects
 As of right now, I am taking Computational Physics I and completing two to three more computational physics simulations every week in my core Physics course. I don't have any big plans for personal projects for the Spring term besides continuing the displacement map, but, to be honest, I'm waiting for my next idea (UPDATE: it looks like it will be some sort of market simulation series).
 
