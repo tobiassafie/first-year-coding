@@ -51,9 +51,6 @@ def generate_signals(df, rsi_window=14, bollinger_window=20, num_std_dev=2):
     df['Position'] = df['Signal']
     df['Position'] = df['Position'].ffill()
 
-    # Build Position column by forward-filling signals
-    df['Position'] = df['Signal'].replace(to_replace=0, method='ffill')
-
     # Define warm-up window for plotting purposes
     warmup_window = max(rsi_window, bollinger_window)
 
