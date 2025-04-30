@@ -30,3 +30,21 @@ trading-simulator/
 │   └── ...
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # This file
+```
+
+## How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/first-year-coding.git
+cd first-year-coding/trading-simulator
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the backtester
+python Capstone_Backtester.ipynb  # or run in Jupyter Lab/Notebook
+
+# Run the game simulation
+python Capstone_Game.ipynb  # or run in Jupyter Lab/Notebook
+```
