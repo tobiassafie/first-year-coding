@@ -38,8 +38,6 @@ N.B. I built this project out of curiosity about how trading strategies work und
 - [View the code](./finance_models/capstone/)
 - [About the Trading Simulator](./finance_models/capstone/README.md)
 
---
-
 ## Physics Simulations
 I made these in the following core Physics courses at Drexel: Contemporary Physics I, II, & III. These projects were developed using Jupyter Notebooks and VPython to model real physical systems. Jupyter allowed for interactive, step-by-step development, while VPython made it easy to animate and actually visualize 3D simulations.
 
