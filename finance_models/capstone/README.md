@@ -38,8 +38,8 @@ trading-simulator/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/first-year-coding.git
-cd first-year-coding/trading-simulator
+git clone https://github.com/tobiassafie/first-year-coding.git
+cd first-year-coding/finance_model/capstone
 
 # Install dependencies
 pip install -r requirements.txt
