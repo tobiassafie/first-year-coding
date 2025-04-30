@@ -17,7 +17,7 @@ A modular Python trading simulator that combines a backtesting engine with an in
 ## **Project Structure**
 
 ```bash
-trading-simulator/
+capstone/
 ├── Capstone_Backtester.ipynb        # Core backtesting logic
 ├── Capstone_Game.ipynb              # Interactive simulation game
 ├── game_scripts/                    # Modular scripts for game logic and mechanics
