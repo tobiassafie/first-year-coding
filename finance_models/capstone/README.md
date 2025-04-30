@@ -4,7 +4,7 @@ A modular Python trading simulator that combines a backtesting engine with an in
 
 ---
 
-## Features
+## **Features**
 
 - Backtesting engine for historical equity data
 - Interactive game mode that simulates live trading decisions
@@ -14,7 +14,7 @@ A modular Python trading simulator that combines a backtesting engine with an in
 
 ---
 
-## Project Structure
+## **Project Structure**
 
 ```bash
 trading-simulator/
@@ -32,7 +32,7 @@ trading-simulator/
 └── README.md                        # This file
 ```
 
-## How to Run
+## **How to Run**
 
 ```bash
 # Clone the repository
