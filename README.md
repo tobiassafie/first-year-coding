@@ -41,7 +41,7 @@ N.B. I built this project out of curiosity about how trading strategies work und
 
 
 ## Physics Simulations
-I made these in the following core Physics courses at Drexel: Contemporary Physics I, II, III. These projects were developed using Jupyter Notebooks and VPython to model real physical systems. Jupyter allowed for interactive, step-by-step development, while VPython made it easy to animate and actually visualize 3D simulations.
+I made these in the following core Physics courses at Drexel: Contemporary Physics I, II, & III. These projects were developed using Jupyter Notebooks and VPython to model real physical systems. Jupyter allowed for interactive, step-by-step development, while VPython made it easy to animate and actually visualize 3D simulations.
 
 ### Einstein Solid Model
 Simlates energy distribution in a two-particle Einstein solid using discrete energy quanta, Includes entropy calculations, multiplicity tracking, and optional plots to visualize system behavior over time.
