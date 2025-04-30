@@ -39,9 +39,6 @@ def generate_signals(df, rsi_window=14, bollinger_window=20, num_std_dev=2):
     # Initialize Signal column
     df['Signal'] = 0
 
-    # First create neutral Signals
-    df['Signal'] = 0
-
     # Buy when Buy Condition becomes newly true
     buy_signal = (df['RSI'] < 30) & (df['Close'] <= df['Lower_Band'])
     sell_signal = (df['RSI'] > 70) & (df['Close'] >= df['Upper_Band'])
