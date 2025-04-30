@@ -36,6 +36,7 @@ A modular backtester and interactive trading game supporting technical indicator
 
 N.B. I built this project out of curiosity about how trading strategies work under the hood— and how fragile or overfit many of them can be (they sounded too good to be true). Once the thought of a trading algorithm came across my sights, I couldn't shake it. I wanted to see what I could build from scratch, what I could replicate, what worked, what broke, and why. I'm not there yet, but I know I can make a winning model— but I'm just not there quite yet. **Luckily this was my first crack at it.**
 - [View the code](./finance_models/capstone/)
+- [About the Trading Simulator](./finance_models/capstone/README.md)
 
 
 
