@@ -4,7 +4,7 @@ Simulations, models, and visualizations from a first-year Physics, Economics & M
 Despite receiving a less-than-representative grade in my introduction Python class at Drexel, I have been coding in Python, Java, and Go for years, even receiving a 5 on the AP CS A exam.
 Since arriving at Drexel, I have been programming computational physics simulations, short Python programs, and personal projects that reflect both my academic and personal interests.
 
-## Featured Project
+## Featured Projects
 
 ### Displacement & Reverse Redlining in Philadelphia
 A data-driven, interactive map visualizing how historical redlining and modern gentrification overlap in Philadelphia. Built using U.S. Census, HOLC, and Eviction Lab data, the tool explores systemic housing inequality— especially neighborhoods in North, South, and West Philadelphia.
@@ -30,6 +30,11 @@ N.B. I built this program to build off the research paper I submitted to Drexel'
 </p>
 
 ---
+
+### Quantitative Trading Simulator
+A modular backtester and interactive trading game supporting technical indicators like MACD, RSI, and ATR-based strategies. Designed for strategy development, visualization, and user experimentation. This project marked my first deep dive into algorithmic trading and quantitative financial modeling.
+
+
 
 
 ## Physics Simulations
