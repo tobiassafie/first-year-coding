@@ -18,15 +18,15 @@ N.B. I built this program to build off the research paper I submitted to Drexel'
 
 ### Displacement Map Snapshot
 <p align="center">
-<img src="./assets/Screenshot_west.png" alt="Tract popup - West Philly" width="700"/>
+<img src="./assets/Screenshot_west.png" alt="Tract popup - West Philly" width="600"/>
 </p>
 
 ---
 
 ### Data Visualizations from the Displacement Tool
 <p align="center">
-  <img src="./assets/Screenshot_rent_redlining.png" alt="Bar chart - rent by HOLC grade" height="350">
-  <img src="./assets/rent_change_choropleth.png" alt="Choropleth of rent change" width="357"/>
+  <img src="./assets/Screenshot_rent_redlining.png" alt="Bar chart - rent by HOLC grade" height="300">
+  <img src="./assets/rent_change_choropleth.png" alt="Choropleth of rent change" width="307"/>
 </p>
 
 ---
