@@ -36,13 +36,13 @@ capstone/
 
 ## **Visualizations from the Game and Backtester**
 <p align="center">
-<img src="./finance_models/capstone/media/MACD_QQQ_PERFORMANCE.png" alt="MACD Performance vs Buy 'n Hold" width="800"/>
-<img src="./finance_models/capstone/media/MACD_QQQ.png" alt="MACD Signals and Mechanics" width="800"/>
+<img src="/media/MACD_QQQ_PERFORMANCE.png" alt="MACD Performance vs Buy 'n Hold" width="800"/>
+<img src="/media/MACD_QQQ.png" alt="MACD Signals and Mechanics" width="800"/>
 </p>
 
 <p align="center">
-<img src=".../media/GAME_STRATEGY_COMPARISON.png" alt="Strategies vs Player Performance" height="200"/>
-<img src="./finance_models/capstone/media/Cencorp_Performance.png" alt="Strategies vs Player Performance (numerical)" height="200"/>
+<img src="/media/GAME_STRATEGY_COMPARISON.png" alt="Strategies vs Player Performance" height="200"/>
+<img src="/media/Cencorp_Performance.png" alt="Strategies vs Player Performance (numerical)" height="200"/>
 </p>
 
 
