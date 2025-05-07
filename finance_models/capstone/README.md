@@ -51,6 +51,10 @@ capstone/
 
 ## **How to Run**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tobiassafie/first-year-coding/blob/main/finance_models/capstone/Capstone_Backtester.ipynb)
+
+OR:
+
 ```bash
 # Clone the repository
 git clone https://github.com/tobiassafie/first-year-coding.git
