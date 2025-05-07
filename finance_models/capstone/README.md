@@ -41,7 +41,7 @@ capstone/
 </p>
 
 <p align="center">
-<img src="/media/GAME_STRATEGY_COMPARISON.png" alt="Strategies vs Player Performance" height="200"/>
+<img src="media/GAME_STRATEGY_COMPARISON.png" alt="Strategies vs Player Performance" height="200"/>
 <img src="/media/Cencorp_Performance.png" alt="Strategies vs Player Performance (numerical)" height="200"/>
 </p>
 
