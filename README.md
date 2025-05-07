@@ -44,6 +44,12 @@ N.B. I built this project out of curiosity about how trading strategies work und
 <img src="./finance_models/capstone/media/MACD_ARKK.png" alt="MACD Strategy on ARKK" width="600"/>
 </p>
 
+---
+### Visualizations from the Game
+<p align="center">
+<img src="./finance_models/capstone/media/GAME_STRATEGY_COMPARISON.png" alt="Strategies vs Player Performance" width="600"/>
+</p>
+
 ## Physics Simulations
 I made these in the following core Physics courses at Drexel: Contemporary Physics I, II, & III. These projects were developed using Jupyter Notebooks and VPython to model real physical systems. Jupyter allowed for interactive, step-by-step development, while VPython made it easy to animate and actually visualize 3D simulations.
 
