@@ -65,3 +65,8 @@ python Capstone_Backtester.ipynb  # or run in Jupyter Lab/Notebook
 # Run the game simulation
 python Capstone_Game.ipynb  # or run in Jupyter Lab/Notebook
 ```
+
+---
+
+## **Why This Exists**
+This project was built to explore the foundations of quantitative trading through simulation and backtesting. I wanted to dip my feet in the water into algorithmic trading and quant finance and I figured this was the perfect project to do it. With these tools, you can test technical strategies, experiment with modular indicators, or simply try to beat the market in a game I made. They werre designed to hone both the creator's and the user's skillsets.
