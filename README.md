@@ -41,14 +41,15 @@ N.B. I built this project out of curiosity about how trading strategies work und
 ---
 ### Visualizations from the Backtester
 <p align="center">
-<img src="./finance_models/capstone/media/MACD_ARKK.png" alt="MACD Strategy on ARKK" width="600"/>
+<img src="./finance_models/capstone/media/MACD_QQQ_PERFORMANCE.png" alt="MACD Performance vs Buy 'n Hold" height="200"/>
+<img src="./finance_models/capstone/media/MACD_QQQ.png" alt="MACD Signals and Mechanics" height="200"/>
 </p>
 
 ---
 ### Visualizations from the Game
 <p align="center">
 <img src="./finance_models/capstone/media/GAME_STRATEGY_COMPARISON.png" alt="Strategies vs Player Performance" height="200"/>
-  <img src="./finance_models/capstone/media/Cencorp_Performance.png" alt="Strategies vs Player Performance (numerical)" height="200"/>
+<img src="./finance_models/capstone/media/Cencorp_Performance.png" alt="Strategies vs Player Performance (numerical)" height="200"/>
 </p>
 
 ## Physics Simulations
