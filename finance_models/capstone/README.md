@@ -34,6 +34,10 @@ capstone/
 
 ---
 
+## **Visualizations from the Game and Backtester**
+
+
+
 ## **How to Run**
 
 ```bash
