@@ -47,7 +47,8 @@ N.B. I built this project out of curiosity about how trading strategies work und
 ---
 ### Visualizations from the Game
 <p align="center">
-<img src="./finance_models/capstone/media/GAME_STRATEGY_COMPARISON.png" alt="Strategies vs Player Performance" width="600"/>
+<img src="./finance_models/capstone/media/GAME_STRATEGY_COMPARISON.png" alt="Strategies vs Player Performance" height="300"/>
+  <img src="./finance_models/capstone/media/Cencorp_Performance.png" alt="Strategies vs Player Performance (numerical)" height="300"/>
 </p>
 
 ## Physics Simulations
