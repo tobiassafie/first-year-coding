@@ -51,7 +51,7 @@ capstone/
 
 ## **How to Run**
 
-[![Open In Colab](https://colab.research.google.com/drive/16qPvm1POVvRglkQbFm_FPXL2DidPPvi8?usp=sharing)
+[Open In Colab](https://colab.research.google.com/drive/16qPvm1POVvRglkQbFm_FPXL2DidPPvi8?usp=sharing)
 
 OR:
 
