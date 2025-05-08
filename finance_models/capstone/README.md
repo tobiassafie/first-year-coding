@@ -51,7 +51,7 @@ capstone/
 
 ## **How to Run**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tobiassafie/first-year-coding/blob/main/finance_models/capstone/Capstone_Backtester.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/16qPvm1POVvRglkQbFm_FPXL2DidPPvi8?usp=sharing)
 
 OR:
 
