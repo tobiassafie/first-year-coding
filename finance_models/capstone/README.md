@@ -1,4 +1,4 @@
-# **Capstone Quantitative Trading Strategy Lab**
+# **Quantitative Trading Strategy Lab**
 
 A modular Python trading simulator that combines a backtesting engine with an interactive trading game. Supports technical indicators including MACD, RSI+Bollinger, and ATR Breakout. Built for experimentation, visualization, and foundational learning in algorithmic trading and quantitative modeling.
 
